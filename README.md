@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Deep learning<br>
 - 👯 I’m looking to collaborate on Deep learning/ML projects<br>
 - 🤔 I’m looking for help with Azure<br>
-- 💬 Ask me about AI, DevOps, Gaming and Music<br>
+- 💬 Ask me about AI, Gaming and Music<br>
 - 📫 How to reach me: vasu2995@gmail.com<br>
 - ⚡️ Fun fact: I'm a huge astrophysics enthusiast!<br>
 </div>
