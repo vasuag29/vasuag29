@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hello World! 👋
 
 #### I'm a developer fascinated by AI and astrophysics! I am currently working at Siemens Healthineers as a software developer. I work on C#, MEAN stack and Azure on a daily basis.
 
@@ -14,9 +14,7 @@
 <a href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:vasu2995@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.instagram.com/ag_vasu_/"><img src="https://img.shields.io/badge/<Vasu Agarwal>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a> <br>
 </div>
 
-
 #### ⚡ Skills
-
 ![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
