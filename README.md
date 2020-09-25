@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Deep learning/ML projects<br>
 - 🤔 I’m looking for help with Azure<br>
 - 💬 Ask me about AI, Gaming and Music<br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="60" height="20"></a> <a href="mailto:vasu2995@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" width="80" height="20"></a>  <a href="https://www.instagram.com/ag_vasu_/"><img src="https://img.shields.io/badge/<Vasu Agarwal>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" width="80" height="20"></a> <br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="60" height="20"></a> <a href="mailto:vasu2995@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.instagram.com/ag_vasu_/"><img src="https://img.shields.io/badge/<Vasu Agarwal>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" width="80" height="20"></a> <br>
 - ⚡️ Fun fact: I'm a huge sci-fi and horror fan!<br>
 </div>
 
