@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Deep learning/ML projects<br>
 - 🤔 I’m looking for help with Azure<br>
 - 💬 Ask me about AI, Gaming and Music<br>
-- 📫 How to reach me: vasu2995@gmail.com<br>
+- 📫 How to reach me: vasu2995@gmail.com  <img src="https://img.shields.io/badge/<ag_vasu_>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/><br>
 - ⚡️ Fun fact: I'm a huge sci-fi and horror fan!<br>
 </div>
 
