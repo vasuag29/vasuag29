@@ -2,7 +2,7 @@
 
 #### I'm a developer fascinated by AI and astrophysics! I am currently working at Siemens Healthineers as a software developer. I work on C#, MEAN stack and Azure on a daily basis.
 
-<img src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif" width="250" height="250" align="right"/>
+<img src="https://tenor.com/KAMc.gif" width="250" height="250" align="right"/>
 <div>
 - 🔭 I’m currently working on becoming an AI expert<br>                                             
 - 🌱 I’m currently learning Deep learning<br>
@@ -13,7 +13,7 @@
 - ⚡️ Fun fact: I'm a huge sci-fi and horror fan!<br>
 </div>
 
-----------------------------------------
+
 #### ⚡ Skills
 
 ![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
