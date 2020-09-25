@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning Deep learning<br>
 - 👯 I’m looking to collaborate on Deep learning/ML projects<br>
 - 🤔 I’m looking for help with Azure<br>
-- 💬 Ask me about AI, Gaming and Music<br>  
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="60" height="25"></a><br>
+- 💬 Ask me about AI, Gaming and Music<br>
+  <div>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="60" height="25"></a><br></div>
 - ⚡️ Fun fact: I'm a huge sci-fi and horror fan!<br>
 </div>
 
