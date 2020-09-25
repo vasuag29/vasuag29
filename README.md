@@ -2,7 +2,7 @@
 
 #### I'm a developer fascinated by AI and astrophysics! I am currently working at Siemens Healthineers as a software developer. I work on C#, MEAN stack and Azure on a daily basis.
 
-<img src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216" width="250" height="250" align="right"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="right"/>
 <div>
 - 🔭 I’m currently working on becoming an AI expert<br>                                             
 - 🌱 I’m currently learning Deep learning<br>
