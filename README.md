@@ -12,7 +12,7 @@
 - 💬 Ask me about AI, Gaming and Music<br>
 - ⚡️ Fun fact: I'm a huge sci-fi and horror fan!<br>  
 - 📫 How to reach me: <br>
-<a href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:vasu2995@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.instagram.com/ag_vasu_/"><img src="https://img.shields.io/badge/<Vasu Agarwal>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a> <br>
+<a href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:vasu2995@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.instagram.com/vasuagarwal29/"><img src="https://img.shields.io/badge/<Vasu Agarwal>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a> <br>
 </div>
 
 #### ⚡ Skills
