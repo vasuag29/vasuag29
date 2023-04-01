@@ -12,7 +12,7 @@
 - 💬 Ask me about AI, PC Gaming, Music, Astrophysics, and Anime.<br>
 - ⚡️ Fun fact: I have a deviated septum :)<br>  
 - 📫 How to reach me: <br>
-<a href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"></a> <a href="mailto:vasu2995@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.instagram.com/vasuagarwal29/"><img src="[https://img.shields.io/badge/<Vasu Agarwal>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white](https://skillicons.dev/icons?i=instagram&theme=light)"></a> <br>
+<a href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"></a> <a href="mailto:vasu2995@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.instagram.com/vasuagarwal29/"><img src="https://skillicons.dev/icons?i=instagram&theme=light"></a> <br>
 </div>
 
 #### ⚡ Skills
