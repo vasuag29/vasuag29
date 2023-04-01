@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-#### I'm a software engineer/developer fascinated by AI and astrophysics! Currently, I'm a CS grad student at Northeastern University, Boston.
+#### I'm a software engineer fascinated by AI and astrophysics! Currently, I'm a CS grad student at Northeastern University, Boston.
 #### I have over 4 years of experience in building applications with C#, MEAN stack and Azure. Right now, I'm focusing on mastering system design and building scalable systems.
 
 <img src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="250" height="250" align="right"/>
@@ -16,6 +16,7 @@
 </div>
 
 #### ⚡ Skills
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 ![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
