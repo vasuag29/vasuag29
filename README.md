@@ -16,4 +16,4 @@
 </div>
 
 #### ⚡ Skills
-[![My Skills](https://skillicons.dev/icons?i=java,react,redux,js,ts,py,cpp,cs,dotnet,angular,nodejs,docker,azure,mysql,mongodb,html,css,bootstrap,blender,git&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,react,redux,js,ts,py,cpp,cs,dotnet,angular,nodejs,docker,azure,mysql,mongodb,html,css,bootstrap,git,blender&theme=light&perline=7)](https://skillicons.dev)
