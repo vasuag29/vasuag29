@@ -8,7 +8,7 @@
 <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/night%20code.gif" width="370" height="300" align="right"/>
 
 <div>
-- 🔭 I’m currently working on mastering my software engineering skills<br>                                             
+- 🔭 I’m currently working on mastering my system design skills<br>                                             
 - 🌱 I’m currently learning NLP<br>
 - 👯 I’m looking to collaborate on Web/NLP projects<br>
 - 🤔 I’m looking for help with learning AWS<br>
