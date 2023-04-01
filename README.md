@@ -12,26 +12,8 @@
 - 💬 Ask me about AI, PC Gaming, Music, Astrophysics, and Anime.<br>
 - ⚡️ Fun fact: I have a deviated septum :)<br>  
 - 📫 How to reach me: <br>
-<a href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:vasu2995@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.instagram.com/vasuagarwal29/"><img src="https://img.shields.io/badge/<Vasu Agarwal>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a> <br>
+<a href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"></a> <a href="mailto:vasu2995@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.instagram.com/vasuagarwal29/"><img src="https://img.shields.io/badge/<Vasu Agarwal>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a> <br>
 </div>
 
 #### ⚡ Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,java,react,js,ts,py,cpp,angularnodejs,html,css,bootstrap,blender,git,azure,sql,mongodb,pandas,keras,jupyter&theme=light&perline=6)](https://skillicons.dev)
-![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)
-![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
-![](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,react,js,ts,py,cpp,angular,nodejs,html,css,bootstrap,blender,git,azure,mysql,mongodb,pandas,keras,jupyter&theme=light&perline=8)](https://skillicons.dev)
