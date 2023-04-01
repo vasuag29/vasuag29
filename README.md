@@ -16,7 +16,7 @@
 </div>
 
 #### ⚡ Skills
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,react,js,ts,py,cpp,angularnodejs,html,css,bootstrap,blender,git,azure,sql,mongodb,pandas,keras,jupyter&theme=light&perline=6)](https://skillicons.dev)
 ![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
