@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning NLP<br>
 - 👯 I’m looking to collaborate on Web/NLP projects<br>
 - 🤔 I’m looking for help with learning AWS<br>
-- 💬 Ask me about AI, PC Gaming, Music, Astrophysics, Sci-fi and Anime.<br>
+- 💬 Ask me about AI, PC Gaming, Cooking, Music, Astrophysics, Sci-fi and Anime.<br>
 - ⚡️ Fun fact: I have a deviated septum :)<br>  
 - 📫 Reach me at my email (vasu2995@gmail.com) or at my socials: <br>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/vasuagarwal29/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"></a>
